@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use or reference this prototype, please cite it as below."
+authors:
+  - family-names: "Renjan"
+    given-names: "Rejitha"
+title: "CardioCritix: Early Detection of Cardiovascular Stress via Cardiac Criticality & ECG Complexity"
+version: 1.0.0
+doi: [10.5281/zenodo.24386928]
+date-released: 2026-11-20
+url: "https://github.com"
